@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Sanchitha! 👋
 
-<!--
-**godakandasanchitha-eng/godakandasanchitha-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about building web applications with Python and Django.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project: AnimeTracker
+I recently built **AnimeTracker**, a full-stack Django application that tracks anime releases in real-time using the Jikan API.
+- **Tech Stack:** Django, Python, TailwindCSS, HTMX, SQLite
+- **Features:** Live release calendar, personal watchlists, dark mode UI, and instant search.
+- [Check out the code here!](https://github.com/godakandasanchitha-eng/AnimeTracker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+## 📊 GitHub Stats
+![Sanchitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=godakandasanchitha-eng&show_icons=true&theme=tokyonight)
