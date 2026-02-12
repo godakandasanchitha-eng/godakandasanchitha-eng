@@ -21,20 +21,6 @@ Currently improving my skills in React and modern UI development.
 - 🎨 Figma
 
 ---
-
-## 🚀 Projects
-
-**[Portfolio Website](https://github.com/yourusername/portfolio)**  
-Built with React and CSS. Responsive design with smooth animations.
-
-**[Landing Page UI](https://github.com/yourusername/landing-page-ui)**  
-HTML, CSS, and JavaScript. Focused on clean layout and interactive elements.
-
-**[Mini JS Project](https://github.com/yourusername/mini-js-project)**  
-A fun JavaScript project to demonstrate DOM manipulation and interactivity.
-
----
-
 ## 📫 Connect with Me
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
