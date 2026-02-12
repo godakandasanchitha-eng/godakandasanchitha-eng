@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Isuru Sanchitha 👋
 
-<!--
-**godakandasanchitha-eng/godakandasanchitha-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Front End Web Developer  
+⚛️ React | 🌐 HTML | 🎨 CSS | ⚡ JavaScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I’m a Front End Web Developer who enjoys building clean, responsive, and user-friendly web interfaces.  
+Currently improving my skills in React and modern UI development.  
+
+---
+
+## 🛠 Tech Stack
+
+- ⚛️ React
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🧰 Git & GitHub
+- 🎨 Figma
+
+---
+
+## 🚀 Projects
+
+**[Portfolio Website](https://github.com/yourusername/portfolio)**  
+Built with React and CSS. Responsive design with smooth animations.
+
+**[Landing Page UI](https://github.com/yourusername/landing-page-ui)**  
+HTML, CSS, and JavaScript. Focused on clean layout and interactive elements.
+
+**[Mini JS Project](https://github.com/yourusername/mini-js-project)**  
+A fun JavaScript project to demonstrate DOM manipulation and interactivity.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
+- Portfolio: [Coming Soon](#)
+
+---
+
+## 📈 GitHub Stats
+
+![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
