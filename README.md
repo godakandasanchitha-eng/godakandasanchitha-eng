@@ -27,7 +27,3 @@ Currently improving my skills in React and modern UI development.
 - Portfolio: [Coming Soon](#)
 
 ---
-
-## 📈 GitHub Stats
-
-![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
