@@ -24,6 +24,6 @@ Currently improving my skills in React and modern UI development.
 ## 📫 Connect with Me
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/isuru-sanchitha-224899292/)
-- Portfolio: [Coming Soon](#)
+- Portfolio: [My Portfolio](https://isuru-portfolio2.vercel.app/)
 
 ---
